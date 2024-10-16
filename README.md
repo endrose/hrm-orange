@@ -9,4 +9,4 @@ Run report : <b>npx playwright show-report</b></br>
 <h2>Allure Report</h2>
 
 Generate report : npm run generate-report or npx allure generate ./allure-results --clean</br>
-Open report : google-chrome --allow-file-access-from-files allure-report/index.html</br>
+Open report : npm run open-report or  google-chrome --allow-file-access-from-files allure-report/index.html</br>

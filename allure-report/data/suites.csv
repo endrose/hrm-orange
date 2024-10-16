@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","15815","Reset password","chromium","Wed Oct 16 22:56:43 WIB 2024","passed","Wed Oct 16 22:56:58 WIB 2024","","resetPassword.spec.js","",""
-"","17888","Valid Login page","chromium","Wed Oct 16 22:56:43 WIB 2024","passed","Wed Oct 16 22:57:00 WIB 2024","","login.spec.js","",""
-"","13168","Verify error message","chromium","Wed Oct 16 22:56:43 WIB 2024","passed","Wed Oct 16 22:56:56 WIB 2024","","verifyErrorMessage.spec.js","",""
+"","26187","Verify error message","chromium","Wed Oct 16 23:51:52 WIB 2024","passed","Wed Oct 16 23:52:18 WIB 2024","","verifyErrorMessage.spec.js","",""
+"","29433","Valid Login page","chromium","Wed Oct 16 23:51:52 WIB 2024","passed","Wed Oct 16 23:52:22 WIB 2024","","login.spec.js","",""
+"","23502","Reset password","chromium","Wed Oct 16 23:51:52 WIB 2024","passed","Wed Oct 16 23:52:16 WIB 2024","","resetPassword.spec.js","",""

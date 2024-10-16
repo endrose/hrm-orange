@@ -85,13 +85,19 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 19482,
+                  "duration": 29433,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-16T15:51:01.120Z",
-                  "attachments": []
+                  "startTime": "2024-10-16T16:51:52.735Z",
+                  "attachments": [
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/home/stark/workspace/playwright/orange-hrm/test-results/login-Valid-Login-page-chromium/trace.zip"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
@@ -125,7 +131,7 @@
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 17126,
+                  "duration": 23502,
                   "errors": [],
                   "stdout": [
                     {
@@ -134,8 +140,14 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-16T15:51:01.099Z",
-                  "attachments": []
+                  "startTime": "2024-10-16T16:51:52.852Z",
+                  "attachments": [
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/home/stark/workspace/playwright/orange-hrm/test-results/resetPassword-Reset-password-chromium/trace.zip"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
@@ -169,7 +181,7 @@
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 15294,
+                  "duration": 26187,
                   "errors": [],
                   "stdout": [
                     {
@@ -178,8 +190,14 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-16T15:51:01.111Z",
-                  "attachments": []
+                  "startTime": "2024-10-16T16:51:52.749Z",
+                  "attachments": [
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/home/stark/workspace/playwright/orange-hrm/test-results/verifyErrorMessage-Verify-error-message-chromium/trace.zip"
+                    }
+                  ]
                 }
               ],
               "status": "expected"
@@ -195,8 +213,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-10-16T15:51:00.280Z",
-    "duration": 21279.917,
+    "startTime": "2024-10-16T16:51:49.001Z",
+    "duration": 37509.25199999999,
     "expected": 3,
     "skipped": 0,
     "unexpected": 0,
