@@ -1,4 +1,4 @@
-# hrm-orange
+# hrm-orange ui automation simple
 
 <h2>Example Automation test with playwright.</h2>
 
