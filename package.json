@@ -1,14 +1,19 @@
 {
-  "name": "orange-hrm",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@playwright/test": "^1.48.0",
-    "@types/node": "^22.7.5"
-  }
+	"name": "orange-hrm",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"generate-report": "npx allure generate ./allure-results --clean",
+		"open-report": "google-chrome --allow-file-access-from-files allure-report/index.html"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@playwright/test": "^1.48.1",
+		"@types/node": "^22.7.5",
+		"allure-commandline": "^2.30.0",
+		"allure-playwright": "^3.0.5"
+	}
 }

@@ -1,9 +1,12 @@
 # hrm-orange
 
 <h2>Example Automation test with playwright.</h2>
-<p>
+
 Run ui : <b>npx playwright test --ui</b>
 Run single file : <b>npx playwright test verifyErrorMessage.spec.js --headed<b/>
 Run report : <b>npx playwright show-report<b/>
-</p>
 
+<h2>Allure Report</h2>
+
+Generate report : npm run generate-report or npx allure generate ./allure-results --clean
+Open report : google-chrome --allow-file-access-from-files allure-report/index.html
