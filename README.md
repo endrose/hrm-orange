@@ -21,19 +21,26 @@ npx playwright show-report
 ```
 
 <h2>Allure Report</h2>
-Generate report : 
+Generate report :
+
 ```bash
-npm run generate-report 
+npm run generate-report
 ```
+
 Or
+
 ```bash
 npx allure generate ./allure-results --clean
 ```
-Open report : 
+
+Open report :
+
 ```bash
-npm run open-report 
+npm run open-report
 ```
-Or  
+
+Or
+
 ```bash
 google-chrome --allow-file-access-from-files allure-report/index.html
 ```
